@@ -7,7 +7,10 @@ Add and delete your daily tasks — beautifully displayed in a grid layout.
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live app](https://Adithyan78.github.io/TO-DO-APP)
+👉 ## 🔗 Live Demo
+
+👉 [Click here to view the live app](https://adithyan78.github.io/TO-DO-APP/)
+
 
 ---
 
